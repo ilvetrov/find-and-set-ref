@@ -1,6 +1,6 @@
 {
   "name": "find-and-set-ref",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "FindAndSetRef is a React component to find an element among children and set a ref to it",
   "author": "ilvetrov",
   "license": "Apache-2.0",
