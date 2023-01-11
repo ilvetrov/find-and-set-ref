@@ -81,7 +81,7 @@ This is to use the wrapped element's ref as the root element to find the element
 ```tsx
 <FindAndSetRef selector=".my-class" refToSet={ref}>
   {/* ref will be undefined */}
-  <div className=".my-class">
+  <div className="my-class">
     
   </div>
 </FindAndSetRef>
