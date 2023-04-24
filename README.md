@@ -1,5 +1,5 @@
 <p>
-  <img src="https://raw.githubusercontent.com/ilvetrov/find-and-set-ref/main/logo.svg"  width="33" height="21" />
+  <img src="https://raw.githubusercontent.com/ilvetrov/find-and-set-ref/main/logo.svg" width="200" height="127" />
 </p>
 
 React component to find an element among children and set a ref to it.
